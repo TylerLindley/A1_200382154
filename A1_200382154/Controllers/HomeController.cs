@@ -23,6 +23,12 @@ namespace A1_200382154.Controllers
             return View();
         }
 
+        public IActionResult Example (String Brand)
+        {
+            ViewData["Message"] = "You Entered Brand: " + Brand;
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
