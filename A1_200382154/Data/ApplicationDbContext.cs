@@ -19,13 +19,13 @@ namespace A1_200382154.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-
+            //putting data into my database
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Animal>().HasData(
                 new Models.Animal() { Id = 10, Name = "Tyler The Tiger", Description = "He's GREAT" },
                 new Models.Animal() { Id = 11, Name = "Cody The Chipmunk",Description = "He Climbs Stuff"}
                 );
-
+            //Seeding the table/data, then doing update-database
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Food>().HasData(
                 new Models.Food() { Id = 10, Price = 30, Name = "Petsy Dog Food", Description = "Average Dog Food", NutritionalInformation = "120 calories, full of vitamins A/B/C/D", Weight = 20, Brand = "Petsy", TypeOfAnimalFor = "Dog" },

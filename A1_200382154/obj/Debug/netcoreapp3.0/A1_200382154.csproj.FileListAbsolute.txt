@@ -143,3 +143,4 @@ C:\Users\tyler\Documents\F2019 Serverside ASP.NET\A1_200382154\A1_200382154\obj\
 C:\Users\tyler\Documents\F2019 Serverside ASP.NET\A1_200382154\A1_200382154\obj\Debug\netcoreapp3.0\Razor\Views\Pets\Edit.cshtml.g.cs
 C:\Users\tyler\Documents\F2019 Serverside ASP.NET\A1_200382154\A1_200382154\obj\Debug\netcoreapp3.0\Razor\Views\Pets\Index.cshtml.g.cs
 C:\Users\tyler\Documents\F2019 Serverside ASP.NET\A1_200382154\A1_200382154\obj\Debug\netcoreapp3.0\Razor\Views\Home\SearchingBrands.cshtml.g.cs
+C:\Users\tyler\Documents\F2019 Serverside ASP.NET\A1_200382154\A1_200382154\obj\Debug\netcoreapp3.0\A1_200382154.csprojAssemblyReference.cache

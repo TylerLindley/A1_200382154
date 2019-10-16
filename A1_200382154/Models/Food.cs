@@ -7,6 +7,7 @@ namespace A1_200382154.Models
 {
     public class Food
     {
+        //declaring variables for my traits of my food.
         public virtual int Id { get; set; } //Creating a primary key named ID
 
         public virtual Decimal Price { get; set; } //Price is decimal so no rounding errors.
