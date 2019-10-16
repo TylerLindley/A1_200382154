@@ -34,7 +34,6 @@ C:\Users\tyler\Documents\F2019 Serverside ASP.NET\A1_200382154\A1_200382154\bin\
 C:\Users\tyler\Documents\F2019 Serverside ASP.NET\A1_200382154\A1_200382154\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\tyler\Documents\F2019 Serverside ASP.NET\A1_200382154\A1_200382154\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\tyler\Documents\F2019 Serverside ASP.NET\A1_200382154\A1_200382154\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\tyler\Documents\F2019 Serverside ASP.NET\A1_200382154\A1_200382154\obj\Debug\netcoreapp3.0\A1_200382154.csprojAssemblyReference.cache
 C:\Users\tyler\Documents\F2019 Serverside ASP.NET\A1_200382154\A1_200382154\obj\Debug\netcoreapp3.0\staticwebassets\A1_200382154.StaticWebAssets.Manifest.cache
 C:\Users\tyler\Documents\F2019 Serverside ASP.NET\A1_200382154\A1_200382154\obj\Debug\netcoreapp3.0\staticwebassets\A1_200382154.StaticWebAssets.xml
 C:\Users\tyler\Documents\F2019 Serverside ASP.NET\A1_200382154\A1_200382154\obj\Debug\netcoreapp3.0\A1_200382154.RazorAssemblyInfo.cache

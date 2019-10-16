@@ -2,16 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\A1_200382154",
-    "\\A1_200382154\\Areas",
     "\\A1_200382154\\Areas\\Identity",
     "\\A1_200382154\\Areas\\Identity\\Pages",
     "\\A1_200382154\\Data",
     "\\A1_200382154\\Data\\Migrations",
-    "\\A1_200382154\\Views",
+    "\\A1_200382154\\Models",
     "\\A1_200382154\\Views\\FoodShop",
-    "\\A1_200382154\\Views\\Home",
-    "\\A1_200382154\\Views\\Shared"
+    "\\A1_200382154\\Views\\Home"
   ],
-  "SelectedNode": "\\A1_200382154\\Views\\Home\\SearchingBrands.cshtml",
+  "SelectedNode": "\\A1_200382154\\Data\\Migrations\\20191016192754_Seed Data and create tables.cs",
   "PreviewInSolutionExplorer": false
 }
