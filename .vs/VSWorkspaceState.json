@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\A1_200382154",
+    "\\A1_200382154\\Areas",
+    "\\A1_200382154\\Areas\\Identity",
+    "\\A1_200382154\\Areas\\Identity\\Pages",
+    "\\A1_200382154\\Data",
+    "\\A1_200382154\\Data\\Migrations",
+    "\\A1_200382154\\Views",
+    "\\A1_200382154\\Views\\FoodShop",
+    "\\A1_200382154\\Views\\Home",
+    "\\A1_200382154\\Views\\Shared"
+  ],
+  "SelectedNode": "\\A1_200382154\\Views\\Home\\SearchingBrands.cshtml",
+  "PreviewInSolutionExplorer": false
+}
